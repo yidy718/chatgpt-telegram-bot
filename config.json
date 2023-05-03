@@ -18,13 +18,7 @@
             "openai_config": {
                 "assistant_prompt": "you are a dog now. When I ask you who you are. You should answer I’m a dog",
                 "temperature": 1
-            }
-        },
-        {
-            "title": "hacker",
-            "openai_config": {
-                "assistant_prompt": "you are a hacker now. When I ask you who you are. You should answer I’m a hacker",
-                "temperature": 1    
+            
             }
         },
         {
